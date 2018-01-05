@@ -33,7 +33,7 @@ Deneyimizi yaptık ve sonuçlarımızı gördük.
 * [Resim 4] : Sıçramaları daha net tespit edebilmek için suyumuza mürekkep ekledik.
 * [Resim 5] : Oluşturduğumuz ve kullandığımız deney düzeneği.
 * [Resim 6] : Bal kaşığı ucu attığımızda ulaştığımız sıçrama. Sıçrama dik ve büyük oldu.
-* [Resim 7] : Bal kaşığı ucunu daha hızlı attığımzda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
+* [Resim 7] : Bal kaşığı ucunu daha hızlı attığımızda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
 * [Resim 8] : Küçük bir bilye attığımızda elde ettiğimiz sıçrama. Görüldüğü üzere az miktarda ve dik bir sıçrama oluştu.
 * [Resim 9] : İçi boş olan armut şeklinde cismi sivri ucu ile elde edilen sıçrama. Sıçrama dağınık bir şekilde meydana geldi.
 * [Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
