@@ -3,7 +3,8 @@ Bu deneyimizde önce 50 cm yükseklikten suya katı cisimler atacağız. Daha so
  
 # Giriş (Introduction)
 Araştırmamızın amacı suya 50 cm yükseklikten cisimler atıp su sıçramasını ölçmek ve bu sıçramayı etkileyen faktörleri belirleyip, sıçramayı azaltan faktörlere ulaşmaktır. Literatürde yer alan benzer bir çalışmada mikrofonla sıçrama sesinin ölçümü de yapılmış ancak biz bunu yapmayacağız. Ayrıca biz diğer çalışmaların aksine suya mürekkep atarak sıçramayı daha net gözlemek istedik. Kalan yönleriyle o çalışmalara benzer bir deney düzeneği kurup sıçramaları karşılaştıracağız. 
-##HİPOTEZLER 
+
+### HİPOTEZLER 
 Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 Cismin kütlesi : Kütle artarsa suya çarpma anındaki kuvvet artacaktır çünkü kuvvet kütle ve ivme ile doğru orantılıdır ( F = m.a ). Bu nedenle su sıçraması daha fazla olacaktır. Bunun için kütlesi farklı iki cismi suya atıp gözlemledik. 
 Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
@@ -20,23 +21,23 @@ Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edece
 # Materyal ve Yöntem (Experimental Setup)
 
  Deneysel sürece başlanmadan önce problem analiz edildi , hipotezler oluşturuldu. Deney hakkında fikir sahibi olabilmek için ''Giriş'' bölümünde de belirtilen kaynaklardan yararlanıldı. Ne gibi sonuçlara ulaşılacak tespit edilmeye çalışıldı. Deneyi başarıya ulaştırabilmek için kullanılması gereken farklı özellikte malzemeler alındı. Deney grubu ( Ali, Umut, İbrahim ) bir apartmanın bahçesinde açık, güneşli bir havada toplandı. Bahçede deney düzeneği hazırlandı. Akvaryuma su koyuldu. Sıçramanın daha net olarak gözlemlenmesi için suya mürekkep atıldı. Deney yapılmaya başlandı. Deneyde kullanılan malzemeler :
-   **Boş akvaryum *Su *Küre ve armut şeklinde içi boş süsler *Elastik top *Sandalye *Lamba *Topaç *Tıpa *Bal kaşığı ucu *Sünger top  *22.3x14.9 mm sensör boyutu ve 17.9 MP , 50 mm f/1.8 makro lens takılı Profesyonel Fotoğraf Makinesi*  **Masa tenisi topu*
+* Boş akvaryum * Su * Küre ve armut şeklinde içi boş süsler * Elastik top * Sandalye * Lamba * Topaç * Tıpa * Bal kaşığı ucu * Sünger top  * 22.3x14.9 mm sensör boyutu ve 17.9 MP , 50 mm f/1.8 makro lens takılı Profesyonel Fotoğraf Makinesi  * Masa tenisi topu
  Malzemeler teker teker suya atıldı. Fotoğraf makinesi ile seri çekim yapıldı ve sıçramanın en yüksek noktası ölçüldü. Yaklaşık 2 saat boyunca bu işlem tekrarlandı. Profesyonel fotoğraf makinesi ile ile yüksek çözünürlükte çekilen görüntüler karşılaştırmayı daha rahat yapabilmek için bilgisayara atıldı. Bilgisayarda incelenen görüntüler karşılaştırıldı ve çeşitli sonuçlara varıldı.
 
 # Bulgular (Results)
 Deneyimizi yaptık ve sonuçlarımızı gördük.
-*[Resim 1] ve [Resim 2] : Deneyde kullandığımız malzemeleri görebilirsiniz.
-*[Resim 3] : Boş akvaryumumuza su doldurduk.
-*[Resim 4] : Sıçramaları daha net tespit edebilmek için suyumuza mürekkep ekledik.
-*[Resim 5] : Oluşturduğumuz ve kullandığımız deney düzeneği.
-*[Resim 6] : Bal kaşığı ucu attığımızda ulaştığımız sıçrama. Sıçrama dik ve büyük oldu.
-*[Resim 7] : Bal kaşığı ucunu daha hızlı attığımzda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
-*[Resim 8] : Küçük bir bilye attığımızda elde ettiğimiz sıçrama. Görüldüğü üzere az miktarda ve dik bir sıçrama oluştu.
-*[Resim 9] : İçi boş olan armut şeklinde cismi sivri ucu ile elde edilen sıçrama. Sıçrama dağınık bir şekilde meydana geldi.
-*[Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
-*[Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
-*[Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
-*[Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşt,.
+* [Resim 1] ve [Resim 2] : Deneyde kullandığımız malzemeleri görebilirsiniz.
+* [Resim 3] : Boş akvaryumumuza su doldurduk.
+* [Resim 4] : Sıçramaları daha net tespit edebilmek için suyumuza mürekkep ekledik.
+* [Resim 5] : Oluşturduğumuz ve kullandığımız deney düzeneği.
+* [Resim 6] : Bal kaşığı ucu attığımızda ulaştığımız sıçrama. Sıçrama dik ve büyük oldu.
+* [Resim 7] : Bal kaşığı ucunu daha hızlı attığımzda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
+* [Resim 8] : Küçük bir bilye attığımızda elde ettiğimiz sıçrama. Görüldüğü üzere az miktarda ve dik bir sıçrama oluştu.
+* [Resim 9] : İçi boş olan armut şeklinde cismi sivri ucu ile elde edilen sıçrama. Sıçrama dağınık bir şekilde meydana geldi.
+* [Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
+* [Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
+* [Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
+* [Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşt,.
 Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
 
 Bir sonraki seferde deneyimizi geliştirmek adına şu 3 adımı atmayı planlıyoruz:
