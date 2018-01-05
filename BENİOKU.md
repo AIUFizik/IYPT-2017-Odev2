@@ -10,7 +10,7 @@ Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 * Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
 * Cismin şekli : Cismin şekli de sıçramayı etkileyecektir. Örneğin herhangi bir cismin tabanı yassı ise yaratacağı sıçrama etkisi tabanı dikdörtgen halinden fazla olur. 
 * Adezyon ve kohezyon kuvveti : Eğer su ile cisim arasındaki adezyon kuvveti, su molekülleri arasındaki kohezyon kuvvetinden büyükse sıçrama dikey bir şekilde gerçekleşir. Ancak durum tam tersiyse bu sefer su sıçraması dağınık bir şekilde gerçekleşir. 
-* Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşi
+* Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşir.
 
 ## Kaynakçalar  
 1. http://eskola.hfd.hr/icm/download/IYPT2008/7.%20Making%20a%20splash.pdf
@@ -21,7 +21,7 @@ Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 # Materyal ve Yöntem (Experimental Setup)
 
  Deneysel sürece başlanmadan önce problem analiz edildi , hipotezler oluşturuldu. Deney hakkında fikir sahibi olabilmek için ''Giriş'' bölümünde de belirtilen kaynaklardan yararlanıldı. Ne gibi sonuçlara ulaşılacak tespit edilmeye çalışıldı. Deneyi başarıya ulaştırabilmek için kullanılması gereken farklı özellikte malzemeler alındı. Deney grubu ( Ali, Umut, İbrahim ) bir apartmanın bahçesinde açık, güneşli bir havada toplandı. Akvaryuma su koyuldu. Sıçramanın daha net olarak gözlemlenmesi için suya mürekkep atıldı ve gerekli ışıklandırma lambalar yardımıyla sağlandı. Deney düzeneği tamamlandı. Deney yapılmaya başlandı. Deneyde kullanılan malzemeler:
-* Boş akvaryum,  Su, Küre ve armut şeklinde içi boş süsler, Elastik top, Sandalye, Lamba, Topaç, Tıpa, Bal kaşığı ucu, Sünger top, 22.3x14.9 mm sensör boyutu ve 17.9 MP , 50 mm f/1.8 makro lens takılı Profesyonel Fotoğraf Makinesi, Masa tenisi topu
+* Boş akvaryum,  Su, Küre ve armut şeklinde içi boş süsler, Elastik top, Sandalye, Lamba, Topaç, Tıpa, Bal kaşığı ucu, Sünger top, 22.3x14.9 mm sensör boyutu ve 17.9 MP - 50 mm f/1.8 makro lens takılı Profesyonel Fotoğraf Makinesi, Masa tenisi topu
 
 Malzemeler teker teker suya atıldı. Fotoğraf makinesi ile seri çekim yapıldı ve sıçramanın en yüksek noktası ölçüldü. Yaklaşık 2 saat boyunca bu işlem tekrarlandı. Profesyonel fotoğraf makinesi ile ile yüksek çözünürlükte çekilen görüntüler karşılaştırmayı daha rahat yapabilmek için bilgisayara atıldı. Bilgisayarda incelenen görüntüler karşılaştırıldı ve çeşitli sonuçlara varıldı.
 
