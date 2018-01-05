@@ -40,7 +40,8 @@ Deneyimizi yaptık ve sonuçlarımızı gördük.
 * [Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
 * [Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
 * [Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşti.
-* Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
+* Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.
+* Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
 
 Bir sonraki seferde deneyimizi geliştirmek adına şu 3 adımı atmayı planlıyoruz:
 * Sıçramayı su yerine süt üstünde gözlemlemek.
