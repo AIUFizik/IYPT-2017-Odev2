@@ -10,7 +10,8 @@ Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 * Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
 * Cismin şekli : Cismin şekli de sıçramayı etkileyecektir. Örneğin herhangi bir cismin tabanı yassı ise yaratacağı sıçrama etkisi tabanı dikdörtgen halinden fazla olur. 
 * Adezyon ve kohezyon kuvveti : Eğer su ile cisim arasındaki adezyon kuvveti, su molekülleri arasındaki kohezyon kuvvetinden büyükse sıçrama dikey bir şekilde gerçekleşir. Ancak durum tam tersiyse bu sefer su sıçraması dağınık bir şekilde gerçekleşir. 
-* Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşir.
+* Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. 
+* Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşir.
 
 ## Kaynakçalar  
 1. http://eskola.hfd.hr/icm/download/IYPT2008/7.%20Making%20a%20splash.pdf
