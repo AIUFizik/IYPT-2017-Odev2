@@ -6,11 +6,11 @@ Araştırmamızın amacı suya 50 cm yükseklikten cisimler atıp su sıçramas�
 
 ### HİPOTEZLER 
 Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
-Cismin kütlesi : Kütle artarsa suya çarpma anındaki kuvvet artacaktır çünkü kuvvet kütle ve ivme ile doğru orantılıdır ( F = m.a ). Bu nedenle su sıçraması daha fazla olacaktır. Bunun için kütlesi farklı iki cismi suya atıp gözlemledik. 
-Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
-Cismin şekli : Cismin şekli de sıçramayı etkileyecektir. Örneğin herhangi bir cismin tabanı yassı ise yaratacağı sıçrama etkisi tabanı dikdörtgen halinden fazla olur. 
-Adezyon ve kohezyon kuvveti : Eğer su ile cisim arasındaki adezyon kuvveti, su molekülleri arasındaki kohezyon kuvvetinden büyükse sıçrama dikey bir şekilde gerçekleşir. Ancak durum tam tersiyse bu sefer su sıçraması dağınık bir şekilde gerçekleşir. 
-Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşi
+* Cismin kütlesi : Kütle artarsa suya çarpma anındaki kuvvet artacaktır çünkü kuvvet kütle ve ivme ile doğru orantılıdır ( F = m.a ). Bu nedenle su sıçraması daha fazla olacaktır. Bunun için kütlesi farklı iki cismi suya atıp gözlemledik. 
+* Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
+* Cismin şekli : Cismin şekli de sıçramayı etkileyecektir. Örneğin herhangi bir cismin tabanı yassı ise yaratacağı sıçrama etkisi tabanı dikdörtgen halinden fazla olur. 
+* Adezyon ve kohezyon kuvveti : Eğer su ile cisim arasındaki adezyon kuvveti, su molekülleri arasındaki kohezyon kuvvetinden büyükse sıçrama dikey bir şekilde gerçekleşir. Ancak durum tam tersiyse bu sefer su sıçraması dağınık bir şekilde gerçekleşir. 
+* Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edeceğimiz sıçrama o kadar fazla olur. Hidrofilik veya hidrofobik yüzey : Eğer cismin yüzeyi hidrofilikse yani suyu çekiyorsa , seviyorsa sıçrama dik olur. Ancak yüzey hidrofobikse cisim suyu itmek ister ve sıçrama dağınık şekilde gerçekleşi
 
 ## Kaynakçalar  
 1. http://eskola.hfd.hr/icm/download/IYPT2008/7.%20Making%20a%20splash.pdf
@@ -37,8 +37,8 @@ Deneyimizi yaptık ve sonuçlarımızı gördük.
 * [Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
 * [Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
 * [Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
-* [Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşt,.
-Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
+* [Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşti.
+* Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
 
 Bir sonraki seferde deneyimizi geliştirmek adına şu 3 adımı atmayı planlıyoruz:
 * Sıçramayı su yerine süt üstünde gözlemlemek.
