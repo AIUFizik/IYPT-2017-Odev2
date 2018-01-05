@@ -3,7 +3,7 @@ Bu deneyimizde önce 50 cm yükseklikten suya katı cisimler atacağız. Daha so
  
 # Giriş (Introduction)
 Araştırmamızın amacı suya 50 cm yükseklikten cisimler atıp su sıçramasını ölçmek ve bu sıçramayı etkileyen faktörleri belirleyip, sıçramayı azaltan faktörlere ulaşmaktır. Literatürde yer alan benzer bir çalışmada mikrofonla sıçrama sesinin ölçümü de yapılmış ancak biz bunu yapmayacağız. Ayrıca biz diğer çalışmaların aksine suya mürekkep atarak sıçramayı daha net gözlemek istedik. Kalan yönleriyle o çalışmalara benzer bir deney düzeneği kurup sıçramaları karşılaştıracağız. 
-###HİPOTEZLER 
+##HİPOTEZLER 
 Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 Cismin kütlesi : Kütle artarsa suya çarpma anındaki kuvvet artacaktır çünkü kuvvet kütle ve ivme ile doğru orantılıdır ( F = m.a ). Bu nedenle su sıçraması daha fazla olacaktır. Bunun için kütlesi farklı iki cismi suya atıp gözlemledik. 
 Cismin hacmi: Şekilleri benzer ,kütleleri eş , hacmi farklı olan iki cismi suya attığımızda hacmi küçük olan cisim suyu daha fazla sıçratır. Çünkü kütleleri eşit olduğundan suya temas ederken uyguladıkları kuvvet eşit olduğu (düşme hareketi gerçekleşirken havanın uyguladığı sürtünme kuvveti çok az olduğu için farklarını göz ardı ettik) ancak suyla temas edecek yüzey alanı farklı olduğu için basınç farklı olur. Yüzey alanı küçük olan cisim daha büyük basınç oluşturacağı için ( P=F/A ) su daha fazla sıçrar.
@@ -25,18 +25,18 @@ Cismin düşerken sahip olduğu hız : Cismi ne kadar hızlı atarsak elde edece
 
 # Bulgular (Results)
 Deneyimizi yaptık ve sonuçlarımızı gördük.
-[Resim 1] ve [Resim 2] : Deneyde kullandığımız malzemeleri görebilirsiniz.
-[Resim 3] : Boş akvaryumumuza su doldurduk.
-[Resim 4] : Sıçramaları daha net tespit edebilmek için suyumuza mürekkep ekledik.
-[Resim 5] : Oluşturduğumuz ve kullandığımız deney düzeneği.
-[Resim 6] : Bal kaşığı ucu attığımızda ulaştığımız sıçrama. Sıçrama dik ve büyük oldu.
-[Resim 7] : Bal kaşığı ucunu daha hızlı attığımzda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
-[Resim 8] : Küçük bir bilye attığımızda elde ettiğimiz sıçrama. Görüldüğü üzere az miktarda ve dik bir sıçrama oluştu.
-[Resim 9] : İçi boş olan armut şeklinde cismi sivri ucu ile elde edilen sıçrama. Sıçrama dağınık bir şekilde meydana geldi.
-[Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
-[Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
-[Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
-[Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşt,.
+*[Resim 1] ve [Resim 2] : Deneyde kullandığımız malzemeleri görebilirsiniz.
+*[Resim 3] : Boş akvaryumumuza su doldurduk.
+*[Resim 4] : Sıçramaları daha net tespit edebilmek için suyumuza mürekkep ekledik.
+*[Resim 5] : Oluşturduğumuz ve kullandığımız deney düzeneği.
+*[Resim 6] : Bal kaşığı ucu attığımızda ulaştığımız sıçrama. Sıçrama dik ve büyük oldu.
+*[Resim 7] : Bal kaşığı ucunu daha hızlı attığımzda ulaştığımız sıçrama ( gölgeden anlaşılabilir). Deney boyunca elde ettiğimiz en büyük sıçrama buydu.
+*[Resim 8] : Küçük bir bilye attığımızda elde ettiğimiz sıçrama. Görüldüğü üzere az miktarda ve dik bir sıçrama oluştu.
+*[Resim 9] : İçi boş olan armut şeklinde cismi sivri ucu ile elde edilen sıçrama. Sıçrama dağınık bir şekilde meydana geldi.
+*[Resim 10] : Sünger topu attığımızda dağınık ve orta düzeyde bir sıçrama gerçekleşti.
+*[Resim 11] : Ucu sivri olan topacı attığımızda tam anlamıyla bir sıçrama olmadı , topaç suyu etrafa dağıttı.
+*[Resim 12] : Kütlesi çok hafif olan masa tenisi topu ile elde edilen sıçrama. Görüldüğü gibi neredeyse hiç sıçrama olmadı.
+*[Resim 13] : Tıpayı attığımızda oluşan dağınık sıçrama.Bu sıçrama da az miktarda gerçekleşt,.
 Dik olarak gerçekleşen sıçramalarda yüzey hidrofilik ve adezyon > kohezyondur. Dağınık gerçekleşen sıçramalarda ise durum tam tersidir.Kullandığımız malzemelerde kütlesi fazla olanlarda daha fazla sıçrama gerçekleşti.
 
 Bir sonraki seferde deneyimizi geliştirmek adına şu 3 adımı atmayı planlıyoruz:
