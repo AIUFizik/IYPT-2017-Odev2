@@ -22,7 +22,8 @@ Hipotezlerimize göre bu sıçramayı etkileyecek faktörler:
 
  Deneysel sürece başlanmadan önce problem analiz edildi , hipotezler oluşturuldu. Deney hakkında fikir sahibi olabilmek için ''Giriş'' bölümünde de belirtilen kaynaklardan yararlanıldı. Ne gibi sonuçlara ulaşılacak tespit edilmeye çalışıldı. Deneyi başarıya ulaştırabilmek için kullanılması gereken farklı özellikte malzemeler alındı. Deney grubu ( Ali, Umut, İbrahim ) bir apartmanın bahçesinde açık, güneşli bir havada toplandı. Bahçede deney düzeneği hazırlandı. Akvaryuma su koyuldu. Sıçramanın daha net olarak gözlemlenmesi için suya mürekkep atıldı. Deney yapılmaya başlandı. Deneyde kullanılan malzemeler :
 * Boş akvaryum * Su * Küre ve armut şeklinde içi boş süsler * Elastik top * Sandalye * Lamba * Topaç * Tıpa * Bal kaşığı ucu * Sünger top  * 22.3x14.9 mm sensör boyutu ve 17.9 MP , 50 mm f/1.8 makro lens takılı Profesyonel Fotoğraf Makinesi  * Masa tenisi topu
- Malzemeler teker teker suya atıldı. Fotoğraf makinesi ile seri çekim yapıldı ve sıçramanın en yüksek noktası ölçüldü. Yaklaşık 2 saat boyunca bu işlem tekrarlandı. Profesyonel fotoğraf makinesi ile ile yüksek çözünürlükte çekilen görüntüler karşılaştırmayı daha rahat yapabilmek için bilgisayara atıldı. Bilgisayarda incelenen görüntüler karşılaştırıldı ve çeşitli sonuçlara varıldı.
+
+Malzemeler teker teker suya atıldı. Fotoğraf makinesi ile seri çekim yapıldı ve sıçramanın en yüksek noktası ölçüldü. Yaklaşık 2 saat boyunca bu işlem tekrarlandı. Profesyonel fotoğraf makinesi ile ile yüksek çözünürlükte çekilen görüntüler karşılaştırmayı daha rahat yapabilmek için bilgisayara atıldı. Bilgisayarda incelenen görüntüler karşılaştırıldı ve çeşitli sonuçlara varıldı.
 
 # Bulgular (Results)
 Deneyimizi yaptık ve sonuçlarımızı gördük.
